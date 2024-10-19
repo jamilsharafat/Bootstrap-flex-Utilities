@@ -1,0 +1,48 @@
+.title{
+	font-size: 40px;
+	font-weight: 700;
+	color: teal;
+	text-align: center;
+}
+.container{
+	margin-top: 50px;
+}
+.box{
+	height: 100px;
+	background-color: lightcyan;
+
+}
+.box2{
+	height: 70px;
+	background-color: lightgray;
+}
+.box3{
+	width: 80px;
+	height: 80px;
+	background-color: lightseagreen;
+}
+h2{
+	text-align: center;
+}
+h4{
+	text-align: center;
+}
+.color{
+
+	background-color: lightseagreen;
+}
+.p-2{
+	padding: 0 !important;
+}
+.bg{margin-top: 30px;
+	padding-left:10px ;
+	background-color: lavender;
+	border: 1px solid chocolate;
+}
+.mh-400{
+	margin-top: 30px;
+	min-height: 100px;
+	background-color: maroon;
+}
+p{
+	margin-bottom: 0;
